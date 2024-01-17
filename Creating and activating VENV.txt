@@ -1,0 +1,5 @@
+1 Open a PowerShell Terminal
+2 Run the command: python -m venv [name]
+where [name] is your chosen name for the virtual environment 
+3 Wait for the virtual environment to be created. (A folder with the chosen name will be created in the current directory).
+4 Run the command: [name]/Scripts/Activate.ps1
